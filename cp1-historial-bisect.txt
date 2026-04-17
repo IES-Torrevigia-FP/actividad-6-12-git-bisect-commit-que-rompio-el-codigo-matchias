@@ -1,0 +1,8 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ git log --oneline
+4fb81b0 (HEAD -> main) Añade comentario 3
+9e0f300 Introduce bug en siguiente (suma 2)
+ee4ba2f Añade comentario 2
+9233913 Añade comentario 1
+c2b20ee Versión inicial correcta de contador
+39fb349 (origin/main, origin/HEAD) add deadline
+e09799d Initial commit

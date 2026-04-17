@@ -1,0 +1,7 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ chmod +x test_contador.sh
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ git bisect start
+git bisect bad # commit actual
+git bisect good <hash_commit_bueno>
+status: waiting for both good and bad commits
+status: waiting for good commit(s), bad commit known
+bash: error sintáctico cerca del elemento inesperado `newline'

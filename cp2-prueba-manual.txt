@@ -1,0 +1,5 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ python3 contador.py 5
+7
+
+Uso el comando python3 contador.py 5 para comprobar si el programa funciona bien o no.
+Si el resultado es 6 está bien (good), y si sale 7 está mal (bad). Así puedo saber fácilmente en qué commits hay error.

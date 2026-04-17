@@ -1,0 +1,8 @@
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ git bisect good <hash_commit_bueno>
+bash: error sintáctico cerca del elemento inesperado `newline'
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ python3 contador.py 5
+7
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ git bisect good
+4fb81b00890fb0c3b7d72c09c7a8985431912a42 fue tanto good como bad
+mathias@mathias-VirtualBox:~/Documentos/dev/actividad-6-12-git-bisect-commit-que-rompio-el-codigo-matchias$ git bisect bad
+4fb81b00890fb0c3b7d72c09c7a8985431912a42 fue tanto good como ba
