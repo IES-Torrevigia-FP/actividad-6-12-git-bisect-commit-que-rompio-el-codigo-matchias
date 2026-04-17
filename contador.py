@@ -7,4 +7,4 @@ def siguiente(n):
 if __name__ == "__main__":
     import sys
     valor = int(sys.argv[1])
-    print(siguiente(valor))
+    print(siguiente(valor))# Log: añadido comentario 1
